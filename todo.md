@@ -54,5 +54,5 @@
 - [x] Contact form submission test (success state verified)
 
 ## GitHub
-- [ ] Connect to GitHub repository
-- [ ] Commit and push all code
+- [x] Connect to GitHub repository
+- [x] Commit and push all code
