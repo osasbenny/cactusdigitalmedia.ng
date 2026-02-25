@@ -55,10 +55,12 @@
 
 ## Branding
 - [x] Replace text logo with logo variation 1 (image)
+- [x] Revert to text logo with three icon bars
+- [x] Update favicon with icon from brand assets
 - [x] Update navbar logo
 - [x] Update footer logo
 
 ## GitHub
 - [x] Connect to GitHub repository
 - [x] Commit and push all code
-- [ ] Push logo update to GitHub
+- [x] Push final branding updates to GitHub
