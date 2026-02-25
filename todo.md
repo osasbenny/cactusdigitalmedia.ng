@@ -60,7 +60,14 @@
 - [x] Update navbar logo
 - [x] Update footer logo
 
+## Deployment & Build
+- [x] Create production build (dist/)
+- [x] Add .htaccess for cPanel SPA routing
+- [x] Create deployment documentation
+- [x] Test SPA routing locally
+
 ## GitHub
 - [x] Connect to GitHub repository
 - [x] Commit and push all code
 - [x] Push final branding updates to GitHub
+- [ ] Push build and deployment config to GitHub
