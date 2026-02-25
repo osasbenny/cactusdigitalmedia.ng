@@ -53,6 +53,12 @@
 - [x] Visual browser testing of all pages
 - [x] Contact form submission test (success state verified)
 
+## Branding
+- [x] Replace text logo with logo variation 1 (image)
+- [x] Update navbar logo
+- [x] Update footer logo
+
 ## GitHub
 - [x] Connect to GitHub repository
 - [x] Commit and push all code
+- [ ] Push logo update to GitHub

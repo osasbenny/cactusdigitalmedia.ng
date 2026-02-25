@@ -56,20 +56,12 @@ export default function Navbar() {
       <div className="container">
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="flex items-end gap-[3px] h-7">
-              <div className="w-[3px] h-4 bg-emerald-500 rounded-full group-hover:h-7 transition-all duration-300" />
-              <div className="w-[3px] h-7 bg-emerald-500 rounded-full" />
-              <div className="w-[3px] h-5 bg-emerald-500 rounded-full group-hover:h-7 transition-all duration-300" />
-            </div>
-            <div>
-              <span className="font-display font-bold text-white text-lg leading-none block">
-                Cactus
-              </span>
-              <span className="font-label text-[10px] text-emerald-500 tracking-[0.15em] uppercase leading-none">
-                Digital Media
-              </span>
-            </div>
+          <Link href="/" className="flex items-center gap-2 group">
+            <img
+              src="/logo.png"
+              alt="Cactus Digital Media"
+              className="h-10 w-auto object-contain"
+            />
           </Link>
 
           {/* Desktop Nav */}

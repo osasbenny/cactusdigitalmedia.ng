@@ -37,20 +37,12 @@ export default function Footer() {
         <div className="grid grid-cols-1 lg:grid-cols-5 gap-12">
           {/* Brand Column */}
           <div className="lg:col-span-2">
-            <Link href="/" className="flex items-center gap-3 group mb-6 w-fit">
-              <div className="flex items-end gap-[3px] h-7">
-                <div className="w-[3px] h-4 bg-emerald-500 rounded-full" />
-                <div className="w-[3px] h-7 bg-emerald-500 rounded-full" />
-                <div className="w-[3px] h-5 bg-emerald-500 rounded-full" />
-              </div>
-              <div>
-                <span className="font-display font-bold text-white text-xl leading-none block">
-                  Cactus
-                </span>
-                <span className="font-label text-[10px] text-emerald-500 tracking-[0.15em] uppercase leading-none">
-                  Digital Media
-                </span>
-              </div>
+            <Link href="/" className="flex items-center gap-2 group mb-6 w-fit">
+              <img
+                src="/logo.png"
+                alt="Cactus Digital Media"
+                className="h-12 w-auto object-contain"
+              />
             </Link>
             <p className="text-slate-400 text-sm leading-relaxed mb-6 max-w-xs">
               Software. Engineered for Growth. We build premium digital products
